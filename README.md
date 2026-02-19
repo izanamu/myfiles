@@ -1,4 +1,4 @@
-# mytest
-this is a storage for my website.
+# myfiles
+this area is a storage for my website.
 
 changed to "GitHub Pages" from repositories, at 2026-02-18.
